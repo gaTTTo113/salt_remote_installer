@@ -1,9 +1,6 @@
 import subprocess
 import threading
 import winrm
-import warnings
-
-warnings.filterwarnings("ignore")
 
 
 class Installation:
